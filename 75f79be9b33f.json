@@ -16,8 +16,8 @@
       "folder_name": "Act4FinalAscent",
       "mod_id": "Act4FinalAscent",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e.zip",
-      "bundle_sha256": "468237ad14306efe552d728fc084606f479bc918d99352c90fc91c0f00a1775d"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_cac1909f.zip",
+      "bundle_sha256": "cac1909fb317a5fdfccca318280d9e6cbaf4ed8a3e73f97f9346b25e9e75c3a9"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3.zip",
-      "bundle_sha256": "2d70ab4f92b34d9c35cf134062cd916bad4c70612f4d0fa0062d9dc230c756e1"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_e708dd36.zip",
+      "bundle_sha256": "e708dd36d8b230fe8492056e72740d61d345fb1984848edbd345a2e3f5dc3a8c"
     },
     {
       "name": "Booba Necrobinder Mod",
@@ -48,8 +48,8 @@
       "folder_name": "Booba-Necrobinder-Mod",
       "mod_id": "Booba-Necrobinder-Mod",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7.zip",
-      "bundle_sha256": "99569bdc5e8576753c66cc931bb61267965303e0f2027b4955e7bb9b2583b9ec"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_26bc891d.zip",
+      "bundle_sha256": "26bc891dabf53332dd2727d284c1942711d9542a99b89b57efa429ffe3e3efb0"
     },
     {
       "name": "CustomCardTextureLoaderSG",
@@ -65,8 +65,8 @@
       "folder_name": "CustomCardTextureLoaderSG",
       "mod_id": "CustomCardTextureLoaderSG",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/CustomCardTextureLoaderSG_v0.0.9.zip",
-      "bundle_sha256": "aa827db452cc1e3b8402ac7b450853aa5ad4cd9586a670b4b71d1e0164268fb4"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/CustomCardTextureLoaderSG_v0.0.9_31068892.zip",
+      "bundle_sha256": "31068892401725569b4823be26ff8b17a1a4fca495febdc4e8e0c39afa3ec93a"
     },
     {
       "name": "Merchant2CuteII",
@@ -81,8 +81,8 @@
       "folder_name": "Merchant2CuteII",
       "mod_id": "Merchant2CuteII",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.0.zip",
-      "bundle_sha256": "78b794f42021c7d54a3e0f7c19361b515f85a5101d3d0146d8e1612ce2b35cbf"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.0_f3261f5f.zip",
+      "bundle_sha256": "f3261f5f9e72cede37ef71695935c8e9c7fb142148f6ce55c24cb975bec57574"
     },
     {
       "name": "MOD Sync Checker / 模组同步检测器",
@@ -101,8 +101,8 @@
       "folder_name": "ModSyncChecker",
       "mod_id": "ModSyncChecker",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/MOD_Sync_Checker___________v2.3.6.zip",
-      "bundle_sha256": "aea0af03ddf93b3398896a4f8e31089cf8282a7e1b2993ae8495fc9e907c1e60"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/MOD_Sync_Checker___._v2.3.6_18e4e896.zip",
+      "bundle_sha256": "18e4e896575f97a32fe766b99f7a462adc6ff0f66935b8330e2c1ef7d8899484"
     },
     {
       "name": "ModListSorter",
@@ -116,8 +116,24 @@
       "folder_name": "ModListSorter",
       "mod_id": "ModListSorter",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1.zip",
-      "bundle_sha256": "0ec5b84fb6b7d3c3e5ca8837d5a227e983a67fdb720a079afc6b6b57b431832a"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_5d405c13.zip",
+      "bundle_sha256": "5d405c13b766fc9b8574a4c0af34ef439f3fb60226f25918317a750889ee8ab0"
+    },
+    {
+      "name": "MoreCharacterFX",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "c0c409bf440c9f73e80dde18bb6178db0ac59238d51c6ebc6300bc7f6ee97db3",
+      "files": [
+        "MoreCharacterFX\\MoreCharacterFX.dll",
+        "MoreCharacterFX\\MoreCharacterFX.json",
+        "MoreCharacterFX\\MoreCharacterFX.pck"
+      ],
+      "folder_name": "MoreCharacterFX",
+      "mod_id": "MoreCharacterFX",
+      "enabled": true,
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/MoreCharacterFX_v0.0.1_325f7272.zip",
+      "bundle_sha256": "325f72728d9f08af50b2d12e5de972f3c95455d2a9f93e320e4fd1c19349e864"
     },
     {
       "name": "Princess",
@@ -133,8 +149,8 @@
       "folder_name": "Princess",
       "mod_id": "Princess",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1.zip",
-      "bundle_sha256": "3584e76c02fcd6d2c933a58a133f0df82049a933ae975821767ab4c4bd29fd3b"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_d39d278c.zip",
+      "bundle_sha256": "d39d278c5fb033cd950f72d17fe4a44350c5f468ec6e1818e80b4a342129c29f"
     },
     {
       "name": "PrincessPatch",
@@ -149,8 +165,23 @@
       "folder_name": "PrincessPatch",
       "mod_id": "PrincessPatch",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/PrincessPatch_v1.2.0.zip",
-      "bundle_sha256": "ee3e8f4e1217ba14e058560cd4024b194bb809813fc7407bafd097a10345e7f7"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/PrincessPatch_v1.2.0_24dd81bc.zip",
+      "bundle_sha256": "24dd81bc53218615e921eccdd77c1536351d7712761862e135194f0412645c57"
+    },
+    {
+      "name": "Ragdoll Physics",
+      "version": "1.0.1",
+      "source": null,
+      "hash": "b5fbb720e0b48fdd2a72118ac019c6830709182f563f9c5f9892b235836523d0",
+      "files": [
+        "ragdoll\\mod_manifest.json",
+        "ragdoll\\ragdoll.dll"
+      ],
+      "folder_name": "ragdoll",
+      "mod_id": "ragdoll",
+      "enabled": true,
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Ragdoll_Physics_v1.0.1_258fffd7.zip",
+      "bundle_sha256": "258fffd734baaea11b3376ba1d3cae8b64c2ebcd32699d083b0e2454c5d99f96"
     },
     {
       "name": "RedMist",
@@ -165,8 +196,8 @@
       "folder_name": "RedMist",
       "mod_id": "RedMist",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RedMist_v0.1.0.zip",
-      "bundle_sha256": "35402747235ea7d747fa17a859006f55e08a4fa0fada42f5d0c66739c9a640d2"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RedMist_v0.1.0_dfad5db6.zip",
+      "bundle_sha256": "dfad5db6a963ccd21885ba1108fda531a3c87a606b8a0a4eb0778a1ed7ba6b00"
     },
     {
       "name": "RegentCardsAnimeRework",
@@ -181,8 +212,8 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.5.1.zip",
-      "bundle_sha256": "009b3984bfc25196b1851c421140a690c5f9c620facb4d19f45dc157b87dff5d"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.5.1_303d200a.zip",
+      "bundle_sha256": "303d200a5cbaf5dfc3b7509f45f3c911ce20aab789e82bb6217df570c3fe435d"
     },
     {
       "name": "RelicPlusMod / 遗物升级模组",
@@ -197,8 +228,8 @@
       "folder_name": "RelicPlusMod",
       "mod_id": "RelicPlusMod",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RelicPlusMod__________v0.0.0.zip",
-      "bundle_sha256": "88c09d98c48afd0039d428483ce1ed6cd83ff4f840885c7d8644edd9e4c5d8ff"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RelicPlusMod___._v0.0.0_ada7a1f6.zip",
+      "bundle_sha256": "ada7a1f6af247438cde7fa05871597402ca69e8baf7d6fc1e682b6b6ee8c6357"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -214,8 +245,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.6-test.zip",
-      "bundle_sha256": "4e76df3d9fd51c0b937b64d2729ce43753dc90fcc1642a2bfd8d066227adee60"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.6-test_07138d7b.zip",
+      "bundle_sha256": "07138d7bb94a61ed216e6fcbe7aec2f7e2e391effd025b90c089c2fcb7830acf"
     },
     {
       "name": "Ryoshu",
@@ -230,8 +261,23 @@
       "folder_name": "Ryoshu",
       "mod_id": "Ryoshu",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.2.zip",
-      "bundle_sha256": "59b77e2cbffc3c9e7fd53c67b20988229cb5fa111b7dc753e868383fbd5cc674"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.2_68eaa08d.zip",
+      "bundle_sha256": "68eaa08d8d4b0b44e4878e7510d60bb18098c5635b0e5b395b712200b69cf3b1"
+    },
+    {
+      "name": "Soul Link",
+      "version": "0.30.0",
+      "source": null,
+      "hash": "e49c5fdd4a9de036bfc161beca8f334d48ce721e9c88795a4550061f033f333f",
+      "files": [
+        "SoulLink\\SoulLink.dll",
+        "SoulLink\\SoulLink.json"
+      ],
+      "folder_name": "SoulLink",
+      "mod_id": "SoulLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Soul_Link_v0.30.0_c6e64a6e.zip",
+      "bundle_sha256": "c6e64a6e20e4dd1995d6c733a36350dc2ac53f10cb87d002149c46efd4e0ab9b"
     },
     {
       "name": "Unified Save Path",
@@ -246,8 +292,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "8290be091750e1da47b5f68e701d6c35fb1f1c4afbc33150fa1fdc8efc8e1be2"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_abc4d688.zip",
+      "bundle_sha256": "abc4d68800247a50d523a619a802c48a0574b430aaa52c6188818a3046c16129"
     },
     {
       "name": "VoiceMod",
@@ -262,8 +308,24 @@
       "folder_name": "regentvoicemod",
       "mod_id": "voicemod",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/VoiceMod_v1.0.0.zip",
-      "bundle_sha256": "9a73f60c8c37835e181a666c788f2ce78cf6996aba5c1f6192caa178b050c8f7"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/VoiceMod_v1.0.0_3b37dded.zip",
+      "bundle_sha256": "3b37ddede4ce20686fb615453de05187f36da290d7351a3c91e60f0d568c26be"
+    },
+    {
+      "name": "塔1BOSS先古之民",
+      "version": "1.1",
+      "source": null,
+      "hash": "6a89876cf64d96c1e40905f911c260a479138e2d9f130745a3e302f48527062b",
+      "files": [
+        "SlayTheSpireBossAncients\\StsBossAncients.dll",
+        "SlayTheSpireBossAncients\\StsBossAncients.json",
+        "SlayTheSpireBossAncients\\StsBossAncients.pck"
+      ],
+      "folder_name": "SlayTheSpireBossAncients",
+      "mod_id": "StsBossAncients",
+      "enabled": true,
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/1BOSS._v1.1_24d57d82.zip",
+      "bundle_sha256": "24d57d825e37f6fc31886b2f4239e8cafe91f8cc884f1441078b2011a563d525"
     },
     {
       "name": "尖塔储君卡图娘化",
@@ -278,8 +340,8 @@
       "folder_name": "RegentFemPortraits",
       "mod_id": "RegentFemPortraits",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/_________v0.6.0.zip",
-      "bundle_sha256": "85b197fb859c36bf6c5390f3842c79b348c07a0b2386485a6ad161b9824660b9"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/_v0.6.0_63990e66.zip",
+      "bundle_sha256": "63990e66068d2cc3ef09b839179718e6ba2500e1c5f1b8922530e95c9fe9f6ee"
     },
     {
       "name": "帕秋莉库",
@@ -294,8 +356,8 @@
       "folder_name": "Patchoulib",
       "mod_id": "Patchoulib",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/_____v1.4.zip",
-      "bundle_sha256": "7f42816495bc8ce24ba26b24f987ee064e41aa3f44d225b88dc9dd9b2f96ef87"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/_v1.4_d67f0a45.zip",
+      "bundle_sha256": "d67f0a45b753477ae24df7a48286f37cc66548ac89d6a5e2de3c4e998f3af220"
     },
     {
       "name": "皮皮统计: Skada",
@@ -310,8 +372,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/______Skada_v1.14.4.zip",
-      "bundle_sha256": "80f33c101fe0350f41e9eee1eb13af9ae2e42f0fe50ff48244680e1d1e282ab9"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_9f0d604e.zip",
+      "bundle_sha256": "9f0d604e717c6bcbff500d74923217cf42af60492abba3538700ca8d7db108b7"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -326,8 +388,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/______ModConfig_v0.2.3.zip",
-      "bundle_sha256": "083a98576384884e2b38233035245f82031da4c91cbb22a7706558d31ca45f8f"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_e909da0f.zip",
+      "bundle_sha256": "e909da0ff7d36b87a3798fdf627d634b7e36073bbc0c75152642f8fc9f029a70"
     },
     {
       "name": "魂魄妖梦",
@@ -342,11 +404,11 @@
       "folder_name": "Sts2ModYoumu",
       "mod_id": "TH_Youmu",
       "enabled": true,
-      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/_____v1.2.zip",
-      "bundle_sha256": "0e0a2478692218eda34c6ee8924fd7c194b0f15d24c54731886fb5d8b8a767ba"
+      "bundle_url": "https://github.com/ghostferjash-ship-it/sts2mm-profiles/releases/download/bundles/_v1.2_aee8cb81.zip",
+      "bundle_sha256": "aee8cb8160ffd27dcc08d2db58d1f4488a85c82621b70402eb562137831689c1"
     }
   ],
   "created_at": "2026-05-17T15:47:15.887669600Z",
-  "updated_at": "2026-05-17T15:58:46.634375600Z",
-  "public": true
+  "updated_at": "2026-05-18T10:40:01.964108500Z",
+  "public": false
 }
